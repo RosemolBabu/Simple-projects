@@ -1,2 +1,2 @@
 # Simple-projects
-Simple projects using HTML, CSS, JavaScript and React
+Simple projects using HTML, CSS, JavaScript 
